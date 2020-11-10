@@ -11,4 +11,7 @@ def fairRations(B):
         return "NO"
     else:
         return breads
+<<<<<<< HEAD
 #Hello
+=======
+>>>>>>> c5b892eebcdb88203f85515854a25a0a7498b298
